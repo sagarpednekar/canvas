@@ -1,0 +1,2 @@
+class BirthdayController < ApplicationController
+end
